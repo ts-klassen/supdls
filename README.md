@@ -1,2 +1,9 @@
-# supdls
-suppressed download server
+supdls
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
